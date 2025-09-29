@@ -9,9 +9,9 @@ links:
   code: ""
   project: ""
 tags:
-  areas: ["classification", "robustness"]
+  areas: ["generalization", "robustness"]
   methods: ["Label-Smoothing"]
-  tasks: ["generalization", "regularization"]
+  tasks: ["regularization"]
   status: "to-read"
 replication:
   repo: ""
