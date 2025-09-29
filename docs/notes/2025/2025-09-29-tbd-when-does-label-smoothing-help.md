@@ -33,4 +33,6 @@ replication:
 
 ## Liens utiles
 
+- **Article**: [When Does Label Smoothing Help? (PDF)](https://arxiv.org/pdf/1906.02629.pdf)
+
 ## Notes perso

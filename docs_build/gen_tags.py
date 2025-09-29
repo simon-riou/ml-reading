@@ -1,7 +1,7 @@
 import os, re, yaml, frontmatter, mkdocs_gen_files
 from pathlib import Path
 
-ROOT = Path(".")
+ROOT = Path("docs")
 NOTES_DIR = ROOT / "notes"
 TAGS_FILE = ROOT / "tags.yaml"
 OUT_DIR = Path("tags")
@@ -15,7 +15,7 @@ for p in NOTES_DIR.rglob("*.md"):
     meta = post.metadata or {}
     tags = (meta.get("tags") or {})
     notes.append({
-        "path": p.as_posix(),
+        "path": p.relative_to(ROOT).as_posix(),  # Store relative path from docs/
         "title": meta.get("title", p.stem),
         "year": str(meta.get("year", "")),
         "status": (tags.get("status") or ""),
@@ -38,7 +38,8 @@ for n in notes:
         index.setdefault(("status", s), []).append(n)
 
 def mk_link(n):
-    return f'[{n["title"]}](/{n["path"]})'
+    # Use relative paths for better MkDocs compatibility
+    return f'[{n["title"]}](../{n["path"]})'
 
 with mkdocs_gen_files.open(OUT_DIR / "index.md", "w") as f:
     f.write("# Tags\n\n")
@@ -63,3 +64,13 @@ for (group, tag), items in sorted(index.items()):
             if n["status"]: meta.append(n["status"])
             meta_str = " — " + ", ".join(meta) if meta else ""
             f.write(f"- {mk_link(n)}{meta_str}\n")
+
+# Generate a simple index of all notes
+items = sorted(NOTES_DIR.rglob("*.md"))
+items = [p for p in items if p.name != "index.md"]
+with mkdocs_gen_files.open("notes/index.md", "w") as f:
+    f.write("# Notes\n\n")
+    for p in items:
+        rel = p.relative_to(NOTES_DIR).as_posix()  # Relative to notes/ instead of docs/
+        title = p.stem
+        f.write(f"- [{title}]({rel})\n")
