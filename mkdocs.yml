@@ -1,5 +1,5 @@
 site_name: ML Reading
-site_url: https://<username>.github.io/ml-reading/
+site_url: https://simon-riou.github.io/ml-reading/
 docs_dir: docs
 theme:
   name: material
