@@ -4,3 +4,8 @@
 - Tags contrôlés via `tags.yaml`.
 - PDFs éventuels dans `papers/YYYY/` ou liens externes.
 - Scripts utilitaires dans `scripts/`.
+
+# Fast search
+- By tag : grep -R --line-number -E '^tags:' -n notes -A5 | grep 'transformers'
+- By citekey : grep -R "smith2025transformer" notes
+- By status : grep -R "status: \"deep-read\"" notes

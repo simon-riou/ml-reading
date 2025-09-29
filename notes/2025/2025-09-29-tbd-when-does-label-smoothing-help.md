@@ -10,8 +10,8 @@ links:
   project: ""
 tags:
   areas: ["robustness", "generalization"]
-  methods: ["regularization"]
-  tasks: []
+  methods: []
+  tasks: ["regularization"]
   status: "to-read"
 replication:
   repo: ""
