@@ -29,7 +29,7 @@ replication:
 
 ## Limites
 
-## Liens utiles0
+## Liens utiles
 
 - **Pytorch blog**: [How to Train State-Of-The-Art Models Using TorchVision’s Latest Primitives](https://pytorch.org/blog/how-to-train-state-of-the-art-models-using-torchvision-latest-primitives/#label-smoothing)
 
