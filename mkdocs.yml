@@ -1,8 +1,32 @@
 site_name: ML Reading
+site_url: https://<username>.github.io/ml-reading/
+docs_dir: .
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - search.suggest
+    - search.highlight
 nav:
   - Home: README.md
   - Notes: notes/
-markdown_extensions: [toc, tables, admonition, footnotes, attr_list]
-plugins: [search]
+  - Tags: tags/index.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - footnotes
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - search
+  - gen-files:
+      scripts:
+        - docs_build/gen_tags.py
+extra:
+  generator: false

@@ -1,0 +1,5 @@
+mkdocs==1.*
+mkdocs-material==9.*
+mkdocs-gen-files==0.*
+python-frontmatter==1.*
+PyYAML==6.*
