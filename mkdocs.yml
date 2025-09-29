@@ -1,0 +1,8 @@
+site_name: ML Reading
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Notes: notes/
+markdown_extensions: [toc, tables, admonition, footnotes, attr_list]
+plugins: [search]
