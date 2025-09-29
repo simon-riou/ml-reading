@@ -1,4 +1,4 @@
-areas: [generalization, optimization, interpretability, robustness, generative, vision, nlp, rl, graphs]
-methods: [transformers, diffusion, vae, gan, svm, gnn]
-tasks: [classification, segmentation, retrieval, summarization, reinforcement]
+areas: [classification, robustness]
+methods: [Label-Smoothing]
+tasks: [generalization, regularization]
 status: [to-read, skimmed, deep-read, replicated]

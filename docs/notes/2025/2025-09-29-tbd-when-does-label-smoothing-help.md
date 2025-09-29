@@ -9,9 +9,9 @@ links:
   code: ""
   project: ""
 tags:
-  areas: ["robustness", "generalization"]
-  methods: []
-  tasks: ["regularization"]
+  areas: ["classification", "robustness"]
+  methods: ["Label Smoothing"]
+  tasks: ["generalization", "regularization"]
   status: "to-read"
 replication:
   repo: ""
@@ -34,5 +34,6 @@ replication:
 ## Liens utiles
 
 - **Article**: [When Does Label Smoothing Help? (PDF)](https://arxiv.org/pdf/1906.02629.pdf)
+- **ArXiv**: [https://arxiv.org/abs/1906.02629](https://arxiv.org/abs/1906.02629)
 
 ## Notes perso
