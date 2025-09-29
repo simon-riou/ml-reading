@@ -1,4 +1,4 @@
 areas: [generalization, robustness]
-methods: [Label-Smoothing]
+methods: [Label-Smoothing, data-augmentation]
 tasks: [regularization]
 status: [to-read, skimmed, deep-read, replicated]
