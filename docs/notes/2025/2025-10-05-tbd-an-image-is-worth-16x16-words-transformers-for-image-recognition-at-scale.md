@@ -36,4 +36,10 @@ replication:
 - **Article**: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (PDF)](https://arxiv.org/pdf/2010.11929)
 - **ArXiv**: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 
+- **Paper explained**: [Samuel Albanie](https://www.youtube.com/watch?v=vsqKGZT8Qn8)
+
+- **Paper explained**: [Yannic Kilcher](https://www.youtube.com/watch?v=TrdevFK_am4)
+
 ## Notes perso
+
+La vidéo de Yannic Kilcher explique le papier, tandis que la vidéo de Samuel Albanie explique en plus les concepts généraux (transformers, bias factor, ...)
