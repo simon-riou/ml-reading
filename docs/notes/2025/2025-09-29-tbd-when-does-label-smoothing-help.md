@@ -10,7 +10,7 @@ links:
   project: ""
 tags:
   areas: ["generalization", "robustness"]
-  methods: ["Label-Smoothing"]
+  methods: ["LabelSmoothing"]
   tasks: ["regularization"]
   status: "to-read"
 replication:

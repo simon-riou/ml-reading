@@ -1,4 +1,4 @@
-areas: [generalization, robustness]
-methods: [Label-Smoothing, data-augmentation]
-tasks: [regularization]
+areas: [SOTA, training, generalization, robustness, computer-vision]
+methods: [Residual-connections, ViT, CNN, LabelSmoothing, data-augmentation, LR-optimizations, TrivialAugment, RandomErasing, MixUp, CutMix, WeightDecay, FixRes-Mitigations, EMA, InferenceResize]
+tasks: [convergence, regularization, classification]
 status: [to-read, skimmed, deep-read, replicated]
