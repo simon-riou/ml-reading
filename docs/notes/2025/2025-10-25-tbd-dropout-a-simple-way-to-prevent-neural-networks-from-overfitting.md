@@ -9,10 +9,10 @@ links:
   code: ""
   project: ""
 tags:
-  areas: []
-  methods: []
-  tasks: []
-  status: "to-read"
+  areas: [generalization, robustness]
+  methods: [Dropout]
+  tasks: [regularization]
+  status: "deep-read"
 replication:
   repo: ""
   data: ""
