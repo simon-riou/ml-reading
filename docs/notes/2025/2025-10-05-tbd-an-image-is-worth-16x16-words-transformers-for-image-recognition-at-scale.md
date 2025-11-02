@@ -21,15 +21,27 @@ replication:
 
 ## TL;DR
 
+Les Transformers appliqués directement sur des patchs d'images atteignent des performances SOTA en classification, sans avoir besoin de biais inductifs CNN, quand pré-entraînés sur de larges datasets.
+
 ## Contexte
+
+Les CNNs dominent la vision par ordinateur grâce à leurs biais inductifs (localité, translation equivariance), mais les Transformers ont révolutionné le NLP.
 
 ## Idées clés
 
+Diviser les images en patchs 16x16, les traiter comme des tokens, et utiliser un Transformer pur sans convolutions permet d'atteindre SOTA avec moins de coût computationnel au pré-entraînement.
+
 ## Méthode
+
+Images découpées en patchs linéarisés + position embeddings, passés dans un Transformer encoder standard, avec un token [CLS] pour la classification.
 
 ## Résultats
 
+ViT-H/14 atteint 88.55% sur ImageNet (pré-entraîné sur JFT-300M), surpassant les CNNs SOTA tout en nécessitant substantiellement moins de ressources pour l'entraînement.
+
 ## Limites
+
+Performances inférieures aux CNNs sur datasets de taille moyenne sans pré-entraînement massif ; manque de biais inductifs nécessite énormément de données pour généraliser.
 
 ## Liens utiles
 
