@@ -1,4 +1,4 @@
-areas: [SOTA, training, generalization, robustness, computer-vision, deep-learning]
-methods: [VGG, Dropout, Residual-connections, ViT, CNN, LabelSmoothing, data-augmentation, LR-optimizations, TrivialAugment, RandomErasing, MixUp, CutMix, WeightDecay, FixRes-Mitigations, EMA, InferenceResize, batch-normalization, normalization]
-tasks: [convergence, regularization, classification]
+areas: [SOTA, training, generalization, robustness, computer-vision, deep-learning, NLP]
+methods: [VGG, Dropout, Residual-connections, ViT, CNN, LabelSmoothing, data-augmentation, LR-optimizations, TrivialAugment, RandomErasing, MixUp, CutMix, WeightDecay, FixRes-Mitigations, EMA, InferenceResize, batch-normalization, normalization, Transformer]
+tasks: [convergence, regularization, classification, language-modeling]
 status: [to-read, skimmed, deep-read, replicated]
