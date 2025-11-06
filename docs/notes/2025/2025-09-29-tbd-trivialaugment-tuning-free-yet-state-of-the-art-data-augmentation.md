@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/pdf/2103.10158"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/trivial_augment.pdf"
 tags:
   areas: ["generalization", "robustness"]
   methods: ["data-augmentation"]

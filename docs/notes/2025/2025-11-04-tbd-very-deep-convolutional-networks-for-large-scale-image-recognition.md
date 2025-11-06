@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/abs/1409.1556"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/vgg.pdf"
 tags:
   areas: [training, computer-vision, SOTA]
   methods: [CNN, VGG]

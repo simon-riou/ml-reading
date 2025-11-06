@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/pdf/1906.02629.pdf"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/label_smoothing.pdf"
 tags:
   areas: ["generalization", "robustness"]
   methods: ["LabelSmoothing"]

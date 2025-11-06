@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/pdf/1512.03385"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/resnets.pdf"
 tags:
   areas: [training, computer-vision]
   methods: [Residual-connections, CNN]

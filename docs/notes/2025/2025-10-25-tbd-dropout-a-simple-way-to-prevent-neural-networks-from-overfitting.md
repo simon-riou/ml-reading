@@ -8,6 +8,7 @@ links:
   pdf: "http://jmlr.org/papers/v15/srivastava14a.html"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/srivastava14a.pdf"
 tags:
   areas: [generalization, robustness]
   methods: [Dropout]

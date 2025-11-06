@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/abs/1502.03167"
   code: ""
   project: ""
+pdf_annotated: "/papers/2025/batch_norm.pdf"
 tags:
   areas: [training, deep-learning, computer-vision]
   methods: [batch-normalization, normalization]

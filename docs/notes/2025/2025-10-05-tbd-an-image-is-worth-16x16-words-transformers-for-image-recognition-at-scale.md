@@ -8,6 +8,7 @@ links:
   pdf: "https://arxiv.org/pdf/2010.11929"
   code: "https://github.com/google-research/vision_transformer"
   project: ""
+pdf_annotated: "/papers/2025/ViT.pdf"
 tags:
   areas: ["SOTA", "computer-vision"]
   methods: ["ViT"]
