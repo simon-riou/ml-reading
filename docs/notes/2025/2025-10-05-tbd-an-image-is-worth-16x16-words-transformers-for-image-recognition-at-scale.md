@@ -13,7 +13,7 @@ tags:
   areas: ["SOTA", "computer-vision"]
   methods: ["ViT"]
   tasks: ["classification"]
-  status: "deep-read"
+  status: "replicated"
 replication:
   repo: ""
   data: ""
@@ -46,8 +46,12 @@ Performances inférieures aux CNNs sur datasets de taille moyenne sans pré-entr
 
 ## Liens utiles
 
+- **Implementation**: [ViT](https://github.com/simon-riou/ml-replicating/blob/master/models/ViT.py)
+
 - **PDF annoté**: [ViT - PDF annoté](../../papers/2025/ViT.pdf)
+
 - **Article**: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (PDF)](https://arxiv.org/pdf/2010.11929)
+
 - **ArXiv**: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 
 - **Paper explained**: [Samuel Albanie](https://www.youtube.com/watch?v=vsqKGZT8Qn8)
