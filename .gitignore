@@ -1,6 +1,4 @@
-papers/*/*.zip
-papers/*/*.tar.gz
-papers/
+/papers/
 *.ipynb_checkpoints
 .DS_Store
 .env
