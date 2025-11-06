@@ -34,6 +34,7 @@ replication:
 
 ## Liens utiles
 
+- **PDF annoté**: [Label Smoothing - PDF annoté](../../papers/2025/label_smoothing.pdf)
 - **Article**: [When Does Label Smoothing Help? (PDF)](https://arxiv.org/pdf/1906.02629.pdf)
 - **ArXiv**: [https://arxiv.org/abs/1906.02629](https://arxiv.org/abs/1906.02629)
 

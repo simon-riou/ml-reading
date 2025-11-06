@@ -34,6 +34,7 @@ replication:
 
 ## Liens utiles
 
+- **PDF annoté**: [TrivialAugment - PDF annoté](../../papers/2025/trivial_augment.pdf)
 - **Article**: [TrivialAugment: Tuning-free Yet State-of-the-Art Data Augmentation (PDF)](https://arxiv.org/pdf/2103.10158)
 - **ArXiv**: [https://arxiv.org/abs/2103.10158](https://arxiv.org/abs/2103.10158)
 

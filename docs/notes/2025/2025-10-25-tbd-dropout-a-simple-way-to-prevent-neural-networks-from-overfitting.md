@@ -46,6 +46,7 @@ Augmente le temps d'entraînement (~2-3x) car convergence plus lente ; choix de 
 
 ## Liens utiles
 
+- **PDF annoté**: [Dropout - PDF annoté](../../papers/2025/srivastava14a.pdf)
 - **Article**: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting  (PDF)](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - **ArXiv**: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting ](https://www.jmlr.org/papers/v15/srivastava14a.html)
 

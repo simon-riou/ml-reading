@@ -48,6 +48,7 @@ Coût computationnel très élevé (nombre massif de paramètres ~138M pour VGG-
 
 ## Liens utiles
 
+- **PDF annoté**: [VGG - PDF annoté](../../papers/2025/vgg.pdf)
 - **Article**: [Very Deep Convolutional Networks for Large-Scale Image Recognition (PDF)](https://arxiv.org/pdf/1409.1556)
 - **ArXiv**: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
 

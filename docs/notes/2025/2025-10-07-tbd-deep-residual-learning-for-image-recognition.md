@@ -46,6 +46,7 @@ Les gains diminuent pour des réseaux extrêmement profonds (1000+ couches) ; po
 
 ## Liens utiles
 
+- **PDF annoté**: [ResNet - PDF annoté](../../papers/2025/resnets.pdf)
 - **Article**: [Deep Residual Learning for Image Recognition (PDF)](https://arxiv.org/pdf/1512.03385)
 - **ArXiv**: [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
 

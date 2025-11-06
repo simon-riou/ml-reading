@@ -46,6 +46,7 @@ Dépendance à la taille du batch (instable avec petits batchs) ; comportement d
 
 ## Liens utiles
 
+- **PDF annoté**: [Batch Normalization - PDF annoté](../../papers/2025/batch_norm.pdf)
 - **Article**: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (PDF)](https://arxiv.org/pdf/1502.03167)
 - **ArXiv**: [https://arxiv.org/abs/1502.03167](https://arxiv.org/abs/1502.03167)
 
