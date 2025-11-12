@@ -54,5 +54,6 @@ FID de 3.17 sur CIFAR-10 (256x256 conditionnelles), surpassant les GANs state-of
 - **Article**: [Denoising Diffusion Probabilistic Models (PDF)](https://arxiv.org/pdf/2006.11239)
 - **ArXiv**: [https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239)
 - **Code officiel**: [https://github.com/hojonathanho/diffusion](https://github.com/hojonathanho/diffusion)
+- **Paper explainer**: [Diffusion Models: DDPM | Generative AI Animated](https://www.youtube.com/watch?v=EhndHhIvWWw)
 
 ## Notes perso
