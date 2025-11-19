@@ -10,7 +10,7 @@ Chaque playlist regroupe par ordre chronologique les papiers clés qui ont fait 
 
 Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'ère des CNNs jusqu'aux Transformers
 
-**13 papiers** dans cette playlist | ✅ **5 lus** | ⬜ **8 à lire**
+**13 papiers** dans cette playlist | ✅ **6 lus** | ⬜ **7 à lire**
 
 ---
 
