@@ -10,7 +10,15 @@ Chaque playlist regroupe par ordre chronologique les papiers clés qui ont fait 
 
 Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'ère des CNNs jusqu'aux Transformers
 
-**4 papiers** dans cette playlist
+**13 papiers** dans cette playlist | ✅ **5 lus** | ⬜ **8 à lire**
+
+---
+
+## [⚙️ 🔧 Architectures & Optimization](architectures-optimization.md)
+
+Techniques d'optimisation et composants architecturaux qui ont transformé l'entraînement des réseaux de neurones
+
+**9 papiers** dans cette playlist | ✅ **2 lus** | ⬜ **7 à lire**
 
 ---
 
@@ -18,7 +26,7 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 Les méthodes qui ont permis d'améliorer la généralisation des réseaux de neurones
 
-**3 papiers** dans cette playlist
+**2 papiers** dans cette playlist | ⬜ **2 à lire**
 
 ---
 
@@ -26,7 +34,7 @@ Les méthodes qui ont permis d'améliorer la généralisation des réseaux de ne
 
 Les guides pratiques pour entraîner des modèles state-of-the-art
 
-**1 papiers** dans cette playlist
+**1 papiers** dans cette playlist | ✅ **1 lu**
 
 ---
 
@@ -34,15 +42,39 @@ Les guides pratiques pour entraîner des modèles state-of-the-art
 
 L'évolution des architectures pour le traitement du langage naturel
 
-*En construction*
+**15 papiers** dans cette playlist | ⬜ **15 à lire**
 
 ---
 
-## [✨ 🎨 Modèles Génératifs](generative-models.md)
+## [✨ 🎨 Modèles Génératifs - Images](generative-models-images.md)
 
-GANs, VAEs, Diffusion Models - l'art de créer du contenu
+GANs, VAEs, Diffusion Models - l'art de créer du contenu visuel
 
-*En construction*
+**19 papiers** dans cette playlist | ✅ **1 lu** | ⬜ **18 à lire**
+
+---
+
+## [👁️ 💬 Vision-Language Models](vision-language-models.md)
+
+Modèles multimodaux unifiant vision et langage
+
+**11 papiers** dans cette playlist | ⬜ **11 à lire**
+
+---
+
+## [🎮 🤖 Reinforcement Learning](reinforcement-learning.md)
+
+L'apprentissage par interaction et récompenses - des jeux Atari aux agents universels
+
+**10 papiers** dans cette playlist | ⬜ **10 à lire**
+
+---
+
+## [🎙️ 🔊 Speech & Audio](speech-audio.md)
+
+De la synthèse vocale à la reconnaissance automatique de la parole
+
+**6 papiers** dans cette playlist | ⬜ **6 à lire**
 
 ---
 
