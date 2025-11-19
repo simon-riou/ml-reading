@@ -36,7 +36,7 @@ Premier CNN moderne (LeNet-5) appliqué avec succès à la reconnaissance de chi
 
 ## Liens utiles
 
-- **Implementation**: [LeNet-5](https://github.com/simon-riou/ml-replicating/blob/master/models/LeNet-5.py)
+- **Implementation**: [LeNet-5](https://github.com/simon-riou/ml-replicating/blob/master/models/LeNet5.py)
 - **PDF annoté**: [LeNet-5 annotated](../../papers/2025/lenet-5.pdf)
 - **Article**: [Gradient-based learning applied to document recognition (PDF)](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
