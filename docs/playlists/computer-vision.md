@@ -9,15 +9,16 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 ## 1. LeNet-5 (1998)
 
-**Auteurs**: Yann LeCun et al.
+**Auteurs**: Yann LeCun, Léon Bottou, Yoshua Bengio, Patrick Haffner
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Premier CNN moderne appliqué avec succès à la reconnaissance de chiffres manuscrits. Architecture fondatrice du deep learning.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-11-19-tbd-gradient-based-learning-applied-to-document-recognition.md)
 - 🔗 [Article](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
 ---
