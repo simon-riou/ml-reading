@@ -13,6 +13,12 @@ Addresse : **[simon-riou.github.io/ml-reading](https://simon-riou.github.io/ml-r
 - Notes perso sur l'article
 - Filtre par tags [tags dispo](tags/index.md)
 
+### 🎵 Playlists
+- **Collections thématiques** de papiers organisés chronologiquement
+- Racontent l'histoire d'un domaine du deep learning
+- Exemples : Computer Vision, Régularisation, Training Recipes...
+- Voir toutes les [playlists disponibles](playlists/index.md)
+
 ### 🏷️ Système de Tags
 Les tags sont contrôlés via `docs/tags.yaml` :
 - **Areas** : domaines de recherche (generalization, robustness, nlp, vision...)
@@ -31,6 +37,7 @@ Les tags sont contrôlés via `docs/tags.yaml` :
 ### Scripts Utilitaires
 - `scripts/new_note.py` : Création rapide d'une nouvelle note
 - `scripts/sync_bib.py` : Synchronisation des références bibliographiques
+- `docs_build/gen_playlists.py` : Génération des pages de playlists
 
 ## 🚀 Utilisation
 
@@ -43,6 +50,17 @@ python scripts/new_note.py "Nom de l'article"
 ```bash
 python scripts/sync_bib.py
 ```
+
+### Créer ou mettre à jour une playlist
+
+1. Éditer `docs/playlists.yaml`
+2. Ajouter ou modifier une playlist
+3. Générer les pages :
+```bash
+python docs_build/gen_playlists.py
+```
+
+Les playlists seront automatiquement générées lors du build MkDocs.
 
 ### Développement local
 ```bash

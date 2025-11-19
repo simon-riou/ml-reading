@@ -1,0 +1,67 @@
+playlists:
+  - id: computer-vision-foundations
+    title: "🖼️ Computer Vision Foundations"
+    description: "Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'ère des CNNs jusqu'aux Transformers"
+    icon: "🏛️"
+    papers:
+      - citekey: "krizhevsky2012alexnet"
+        title: "AlexNet"
+        year: 2012
+        why: "Le papier qui a lancé la révolution deep learning en vision. Première victoire écrasante des CNNs sur ImageNet."
+
+      - citekey: "simonyan2014vgg"
+        title: "VGG"
+        year: 2014
+        why: "A démontré que la profondeur des réseaux est cruciale. Architecture simple et élégante."
+
+      - citekey: "he2015deep"
+        title: "ResNet"
+        year: 2015
+        why: "Les connexions résiduelles ont permis d'entraîner des réseaux ultra-profonds (152 couches). Révolution architecturale."
+
+      - citekey: "dosovitskiy2021ViT"
+        title: "Vision Transformer (ViT)"
+        year: 2021
+        why: "Abandon des convolutions au profit des Transformers. Nouveau paradigme pour la vision."
+
+  - id: regularization-techniques
+    title: "🎯 Techniques de Régularisation"
+    description: "Les méthodes qui ont permis d'améliorer la généralisation des réseaux de neurones"
+    icon: "🛡️"
+    papers:
+      - citekey: "srivastava2014dropout"
+        title: "Dropout"
+        year: 2014
+        why: "Technique simple mais puissante pour éviter le surapprentissage en désactivant aléatoirement des neurones."
+
+      - citekey: "szegedy2016labelsmoothhing"
+        title: "Label Smoothing"
+        year: 2016
+        why: "Évite la sur-confiance du modèle en lissant les labels. Améliore la calibration."
+
+      - citekey: "cubuk2020trivialaugment"
+        title: "TrivialAugment"
+        year: 2020
+        why: "Data augmentation sans hyperparamètres à tuner. Performances SOTA avec simplicité."
+
+  - id: training-recipes
+    title: "👨‍🍳 Training Recipes"
+    description: "Les guides pratiques pour entraîner des modèles state-of-the-art"
+    icon: "📖"
+    papers:
+      - citekey: "wightman2021torchvision"
+        title: "How to train SOTA models using torchvision"
+        year: 2021
+        why: "Guide pratique avec toutes les techniques modernes d'entraînement combinées."
+
+  - id: nlp-transformers
+    title: "💬 NLP & Transformers"
+    description: "L'évolution des architectures pour le traitement du langage naturel"
+    icon: "🤖"
+    papers: []
+
+  - id: generative-models
+    title: "🎨 Modèles Génératifs"
+    description: "GANs, VAEs, Diffusion Models - l'art de créer du contenu"
+    icon: "✨"
+    papers: []

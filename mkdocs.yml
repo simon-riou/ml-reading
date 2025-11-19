@@ -6,6 +6,7 @@ theme:
 nav:
   - Home: README.md
   - Notes: notes/index.md
+  - Playlists: playlists/index.md
   - Tags: tags/index.md
 markdown_extensions:
   - toc:
@@ -22,5 +23,6 @@ plugins:
   - gen-files:
       scripts:
         - docs_build/gen_tags.py
+        - docs_build/gen_playlists.py
 extra:
   generator: false
