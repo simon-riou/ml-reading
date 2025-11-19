@@ -6,7 +6,7 @@ Chaque playlist regroupe par ordre chronologique les papiers clés qui ont fait 
 
 ---
 
-## [🏛️ 🖼️ Computer Vision Foundations](computer-vision-foundations.md)
+## [🏛️ 🖼️ Computer Vision Foundations](computer-vision.md)
 
 Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'ère des CNNs jusqu'aux Transformers
 
@@ -22,23 +22,7 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 ---
 
-## [🛡️ 🎯 Techniques de Régularisation](regularization-techniques.md)
-
-Les méthodes qui ont permis d'améliorer la généralisation des réseaux de neurones
-
-**2 papiers** dans cette playlist | ⬜ **2 à lire**
-
----
-
-## [📖 👨‍🍳 Training Recipes](training-recipes.md)
-
-Les guides pratiques pour entraîner des modèles state-of-the-art
-
-**1 papiers** dans cette playlist | ✅ **1 lu**
-
----
-
-## [🤖 💬 NLP & Transformers](nlp-transformers.md)
+## [🤖 💬 Natural Language Processing](natural-language-processing.md)
 
 L'évolution des architectures pour le traitement du langage naturel
 
