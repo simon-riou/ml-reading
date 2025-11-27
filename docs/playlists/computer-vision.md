@@ -60,13 +60,14 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Christian Szegedy et al.
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Introduction des modules Inception permettant d'extraire des features à différentes échelles simultanément.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-11-27-tbd-going-deeper-with-convolutions.md)
 - 🔗 [Article](https://arxiv.org/abs/1409.4842)
 
 ---
