@@ -13,7 +13,7 @@ tags:
   areas: ["Computer Vision", "Deep Learning"]
   methods: ["CNN", "Inception Module", "Auxiliary Classifiers", "1x1 Convolutions", "Multi-scale Processing"]
   tasks: ["Image Classification", "Object Detection"]
-  status: "deep-read"
+  status: "replicated"
 replication:
   repo: ""
   data: "ImageNet ILSVRC-2014"
@@ -134,6 +134,7 @@ Les auteurs s'inspirent du principe Hebbien et du travail théorique d'Arora et 
 
 ## Liens utiles
 
+- **Implementation**: [LeNet-5](https://github.com/simon-riou/ml-replicating/blob/master/models/GoogleLeNet.py)
 - **PDF annoté**: [Going deeper with convolutions annotated](../../papers/2025/inception.pdf)
 - **Article**: [Going deeper with convolutions (PDF)](https://arxiv.org/abs/1409.4842)
 - **ArXiv**: [1409.4842](https://arxiv.org/abs/1409.4842)
