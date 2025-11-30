@@ -108,14 +108,16 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Chaque couche est connectée à toutes les couches précédentes, favorisant la réutilisation des features et réduisant les paramètres.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-11-30-tbd-densely-connected-convolutional-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1608.06993)
+- 💻 [Code](https://github.com/liuzhuang13/DenseNet)
 
 ---
 
