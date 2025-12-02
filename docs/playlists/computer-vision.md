@@ -125,14 +125,16 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Étend ResNet avec des transformations agrégées (cardinality), améliorant les performances sans complexité additionnelle.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-02-tbd-aggregated-residual-transformations-for-deep-neural-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1611.05431)
+- 💻 [Code](https://github.com/facebookresearch/ResNeXt)
 
 ---
 
