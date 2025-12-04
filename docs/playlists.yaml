@@ -9,15 +9,35 @@ playlists:
         year: 2012
         why: "Le papier qui a lancé la révolution deep learning en vision. Première victoire écrasante des CNNs sur ImageNet."
 
-      - citekey: "simonyan2014vgg"
+      - citekey: "szegedy2014going"
+        title: "GoogLeNet / Inception"
+        year: 2014
+        why: "Architecture multi-scale avec modules Inception. Introduction du concept de branches parallèles avec différents receptive fields."
+
+      - citekey: "simonyan2015deepconvolutionalnetworkslargescale"
         title: "VGG"
         year: 2014
-        why: "A démontré que la profondeur des réseaux est cruciale. Architecture simple et élégante."
+        why: "A démontré que la profondeur des réseaux est cruciale. Architecture simple et élégante avec blocs répétés."
 
       - citekey: "he2015deep"
         title: "ResNet"
         year: 2015
         why: "Les connexions résiduelles ont permis d'entraîner des réseaux ultra-profonds (152 couches). Révolution architecturale."
+
+      - citekey: "huang2018denselyconnectedconvolutionalnetworks"
+        title: "DenseNet"
+        year: 2016
+        why: "Connexions denses entre toutes les couches via concaténation. Réutilisation efficace des features avec 3× moins de paramètres."
+
+      - citekey: "xie2017aggregatedresidualtransformationsdeep"
+        title: "ResNeXt"
+        year: 2017
+        why: "Introduit la cardinalité comme nouvelle dimension architecturale. Plus efficace que d'augmenter profondeur ou largeur."
+
+      - citekey: "hu2019squeezeandexcitationnetworks"
+        title: "SENet (Squeeze-and-Excitation)"
+        year: 2017
+        why: "Mécanisme d'attention sur les canaux via squeeze (global pooling) et excitation (FC layers). Winner ILSVRC 2017."
 
       - citekey: "dosovitskiy2021ViT"
         title: "Vision Transformer (ViT)"
