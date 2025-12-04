@@ -142,13 +142,14 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Jie Hu, Li Shen, Gang Sun
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Mécanisme d'attention sur les canaux (Squeeze-and-Excitation) qui recalibre dynamiquement les features channels.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-04-tbd-squeeze-and-excitation-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1709.01507)
 
 ---
