@@ -158,13 +158,14 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Mingxing Tan, Quoc V. Le
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Scaling uniforme et optimal de la profondeur, largeur et résolution pour maximiser l'efficacité computationnelle.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-08-tbd-efficientnet-rethinking-model-scaling-for-convolutional-neural-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1905.11946)
 
 ---
