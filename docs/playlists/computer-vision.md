@@ -191,13 +191,14 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Transformer hiérarchique avec fenêtres décalées (shifted windows) pour une complexité linéaire et des features multi-échelles.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-18-tbd-swin-transformer-hierarchical-vision-transformer-using-shifted-windows.md)
 - 🔗 [Article](https://arxiv.org/abs/2103.14030)
 
 ---
