@@ -207,13 +207,14 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 **Auteurs**: Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, Saining Xie
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Modernisation des CNNs avec des designs inspirés des Transformers, prouvant que les convolutions restent compétitives.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-20-tbd-a-convnet-for-the-2020s.md)
 - 🔗 [Article](https://arxiv.org/abs/2201.03545)
 
 ---
