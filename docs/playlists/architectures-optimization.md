@@ -27,13 +27,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Diederik P. Kingma, Jimmy Ba
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     A Method for Stochastic Optimization - optimiseur adaptatif combinant momentum et RMSProp, devenu l'optimiseur par défaut.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-23-tbd-adam-a-method-for-stochastic-optimization.md)
 - 🔗 [Article](https://arxiv.org/abs/1412.6980)
 
 ---
