@@ -59,13 +59,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Tim Salimans, Diederik P. Kingma
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Reparamétrisation des poids en magnitude et direction pour accélérer la convergence sans dépendance au batch.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2025/2025-12-27-tbd-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1602.07868)
 
 ---
