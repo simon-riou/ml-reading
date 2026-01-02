@@ -18,7 +18,7 @@ Les papiers fondateurs qui ont révolutionné la vision par ordinateur, de l'èr
 
 Techniques d'optimisation et composants architecturaux qui ont transformé l'entraînement des réseaux de neurones
 
-**9 papiers** dans cette playlist | ✅ **4 lus** | ⬜ **5 à lire**
+**9 papiers** dans cette playlist | ✅ **5 lus** | ⬜ **4 à lire**
 
 ---
 

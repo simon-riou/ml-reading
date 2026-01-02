@@ -75,13 +75,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Normalisation par couche indépendante du batch, cruciale pour les RNNs et Transformers.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-02-tbd-layer-normalization.md)
 - 🔗 [Article](https://arxiv.org/abs/1607.06450)
 
 ---
