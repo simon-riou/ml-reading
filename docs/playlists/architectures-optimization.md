@@ -91,13 +91,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, et al.
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Entraînement en précision mixte (FP16/FP32) pour accélération 2-3x avec efficacité mémoire sans perte de précision.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-04-tbd-mixed-precision-training.md)
 - 🔗 [Article](https://arxiv.org/abs/1710.03740)
 
 ---
