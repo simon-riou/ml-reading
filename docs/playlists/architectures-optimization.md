@@ -107,13 +107,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Yuxin Wu, Kaiming He
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Normalisation par groupes de canaux, alternative à Batch Norm stable avec petits batchs.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-04-tbd-group-normalization.md)
 - 🔗 [Article](https://arxiv.org/abs/1803.08494)
 
 ---
