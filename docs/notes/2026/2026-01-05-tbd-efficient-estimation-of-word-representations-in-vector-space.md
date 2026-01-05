@@ -174,3 +174,13 @@ En gros, avant on utilisait des modeles type NNLM, RNNML qui créait les embeddi
 CBOW: un vecteur one hot des mots du contexte -> on recupere les indices correspondants de la matrice d'embeddings, puis on moyenne ca et on prédit le mot cible. Ce qui nous interesse c'est pas le model c'est la grosse matrice d'embeddings au milieu.
 
 Skip-gram: Pareil qu'avant sauf qu'on predit les mots du contexte via le mot cible, en entrainant le model plusieurs fois sur le meme mot mais en prédisant un mot du contexte différent a chaque fois.
+
+
+Par rapport a ce qu'on fait aujourd'hui:
+
+Les modèles CBOW et Skip-gram ne constituent plus l'état de l'art (SOTA) pour la majorité des tâches de traitement du langage naturel (NLP), mais ils demeurent des briques fondamentales et des références pédagogiques.
+1. Transition vers les représentations contextuelles
+
+    Limitation des vecteurs statiques : CBOW et Skip-gram produisent des représentations dites "statiques". Un mot unique possède un vecteur unique, quelle que soit sa polysémie ou son contexte (ex: le mot "avocat" aura le même vecteur pour le fruit et la profession).
+
+Remplacement par les modèles à base d'attention : Les architectures de type Transformer (BERT, RoBERTa, GPT) ont remplacé ces modèles pour les tâches nécessitant de la nuance. Ces systèmes génèrent des embeddings contextuels : la représentation d'un mot change dynamiquement en fonction des mots qui l'entourent.
