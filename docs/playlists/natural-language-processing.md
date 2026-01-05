@@ -11,13 +11,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Représentations vectorielles continues des mots capturant les relations sémantiques. Fondation du NLP moderne.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-05-tbd-efficient-estimation-of-word-representations-in-vector-space.md)
 - 🔗 [Article](https://arxiv.org/abs/1301.3781)
 
 ---
