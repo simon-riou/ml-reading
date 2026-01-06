@@ -27,13 +27,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Gated Recurrent Unit - simplification du LSTM avec performances similaires, utilisant des mécanismes de gating pour contrôler le flux d'information.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-07-tbd-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md)
 - 🔗 [Article](https://arxiv.org/abs/1406.1078)
 
 ---
