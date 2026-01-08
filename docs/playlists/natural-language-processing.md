@@ -43,13 +43,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Architecture encoder-decoder permettant de mapper des séquences de longueur variable. Base de la traduction neuronale.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-08-tbd-sequence-to-sequence-learning-with-neural-networks.md)
 - 🔗 [Article](https://arxiv.org/abs/1409.3215)
 
 ---
