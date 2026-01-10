@@ -59,12 +59,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Mécanisme d'attention permettant au modèle de se concentrer sur les parties pertinentes de l'entrée. Innovation majeure du NLP.
 
 **Liens**:
+
+- 📝 [Mes notes](../notes/2026/2026-01-10-tbd-neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
 
 - 🔗 [Article](https://arxiv.org/abs/1409.0473)
 
