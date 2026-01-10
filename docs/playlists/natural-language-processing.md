@@ -76,13 +76,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     "Attention Is All You Need" - Architecture révolutionnaire basée uniquement sur l'attention, abandonnant la récurrence. Base de tous les LLMs modernes.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-10-tbd-attention-is-all-you-need.md)
 - 🔗 [Article](https://arxiv.org/abs/1706.03762)
 
 ---
