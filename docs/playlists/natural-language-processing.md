@@ -92,13 +92,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Embeddings from Language Models - représentations contextuelles profondes capturant la polysémie et le contexte.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-11-tbd-deep-contextualized-word-representations.md)
 - 🔗 [Article](https://arxiv.org/abs/1802.05365)
 
 ---
