@@ -108,13 +108,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Generative Pre-Training - démonstration que le pré-entraînement génératif sur du texte brut améliore les tâches discriminatives.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-12-tbd-improving-language-understanding-by-generative-pre-training.md)
 - 🔗 [Article](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 ---
