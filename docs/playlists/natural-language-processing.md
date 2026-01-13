@@ -124,13 +124,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Bidirectional Encoder Representations from Transformers - pré-entraînement bidirectionnel avec masked language modeling. État de l'art sur 11 tâches NLP.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-13-tbd-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding.md)
 - 🔗 [Article](https://arxiv.org/abs/1810.04805)
 
 ---
