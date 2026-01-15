@@ -140,13 +140,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Language Models are Unsupervised Multitask Learners - démonstration des capacités zero-shot des modèles de langage à grande échelle (1.5B paramètres).
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-15-tbd-language-models-are-unsupervised-multitask-learners.md)
 - 🔗 [Article](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 ---
