@@ -156,13 +156,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Text-to-Text Transfer Transformer - unification de toutes les tâches NLP sous un format texte-à-texte. Étude systématique du transfer learning.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-17-tbd-exploring-the-limits-of-transfer-learning-with-a-unified-text-to-text-transformer.md)
 - 🔗 [Article](https://arxiv.org/abs/1910.10683)
 
 ---
