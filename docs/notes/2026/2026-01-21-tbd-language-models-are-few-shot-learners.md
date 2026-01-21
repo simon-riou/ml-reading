@@ -313,8 +313,6 @@ Cela suggère que les grands modèles sont meilleurs pour **l'in-context learnin
 
 ### Points remarquables du papier
 
-- **72 pages** (40 + 32 d'appendices) - un des papiers ML les plus longs
-- **31 auteurs** - reflète l'effort industriel nécessaire
 - Recommandé pour le **best paper award** par un reviewer NeurIPS
 - Le papier documente honnêtement les **biais et limitations** (section entière dédiée)
 - Premier modèle à générer du texte "indistinguishable" d'humains selon certaines métriques
