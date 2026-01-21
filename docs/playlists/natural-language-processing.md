@@ -172,13 +172,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Tom B. Brown et al. (31 auteurs)
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Language Models are Few-Shot Learners - 175B paramètres, démonstration du few-shot et in-context learning sans fine-tuning.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-21-tbd-language-models-are-few-shot-learners.md)
 - 🔗 [Article](https://arxiv.org/abs/2005.14165)
 
 ---
