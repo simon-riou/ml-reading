@@ -197,16 +197,6 @@ Real NVP offre le meilleur compromis : haute expressivité, inversion efficace, 
 
 ## Notes perso
 
-### Évolution NICE → Real NVP → Glow
-
-| Aspect | NICE (2014) | Real NVP (2017) | Glow (2018) |
-|--------|-------------|-----------------|-------------|
-| Coupling | Additif | Affine | Affine |
-| Volume | Préservé | Non-préservé | Non-préservé |
-| Permutation | Fixe | Fixe (masques) | 1×1 Conv inversible |
-| Architecture | FC | Multi-scale CNN | Multi-scale CNN |
-| Bits/dim CIFAR | 4.48 | 3.49 | 3.35 |
-
 ### Connexion avec d'autres approches
 
 **VAEs et flows** : Les flows peuvent être utilisés comme posterior flexible dans les VAEs (VAE + IAF), combinant les avantages des deux : ELBO tractable + posterior expressif.
