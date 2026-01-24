@@ -188,13 +188,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Lois empiriques prédisant les performances des modèles de langage en fonction du nombre de paramètres, données et compute.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-24-tbd-scaling-laws-for-neural-language-models.md)
 - 🔗 [Article](https://arxiv.org/abs/2001.08361)
 
 ---
