@@ -204,13 +204,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Chain-of-Thought Prompting - le raisonnement intermédiaire améliore drastiquement les capacités de raisonnement des LLMs.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-25-tbd-chain-of-thought-prompting-elicits-reasoning-in-large-language-models.md)
 - 🔗 [Article](https://arxiv.org/abs/2201.11903)
 
 ---
