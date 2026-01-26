@@ -220,13 +220,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al.
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     RLHF (Reinforcement Learning from Human Feedback) - aligner les modèles de langage avec les intentions humaines via le feedback.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-27-tbd-training-language-models-to-follow-instructions-with-human-feedback.md)
 - 🔗 [Article](https://arxiv.org/abs/2203.02155)
 
 ---
