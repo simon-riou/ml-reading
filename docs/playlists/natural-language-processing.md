@@ -236,13 +236,14 @@ L'évolution des architectures pour le traitement du langage naturel
 
 **Auteurs**: Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al.
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Open and Efficient Foundation Language Models - modèles open-source performants (7B-65B), démocratisation de l'accès aux LLMs.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-28-tbd-llama-open-and-efficient-foundation-language-models.md)
 - 🔗 [Article](https://arxiv.org/abs/2302.13971)
 
 ---

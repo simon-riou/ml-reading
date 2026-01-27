@@ -26,7 +26,7 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 L'évolution des architectures pour le traitement du langage naturel
 
-**15 papiers** dans cette playlist | ✅ **14 lus**  ⬜ **1 à lire**
+**15 papiers** dans cette playlist | ✅ **15 lus**  ⬜ **0 à lire**
 
 ---
 
