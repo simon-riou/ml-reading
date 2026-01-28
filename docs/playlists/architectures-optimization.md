@@ -138,13 +138,14 @@ Techniques d'optimisation et composants architecturaux qui ont transformé l'ent
 
 **Auteurs**: Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen
 
-**READ**: ⬜
+**READ**: ✅
 
 !!! quote "Pourquoi ce papier ?"
     Low-Rank Adaptation - fine-tuning efficace des LLMs en apprenant des matrices low-rank, réduisant drastiquement les paramètres entraînables.
 
 **Liens**:
 
+- 📝 [Mes notes](../notes/2026/2026-01-29-tbd-lora-low-rank-adaptation-of-large-language-models.md)
 - 🔗 [Article](https://arxiv.org/abs/2106.09685)
 
 ---
